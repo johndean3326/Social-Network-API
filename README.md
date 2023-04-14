@@ -12,3 +12,7 @@
 
 ## Install
 npm i
+node server
+
+## Issues 
+Could not get my app working. troubles debugging and i cant get it figured. Turning in something to atleast be graded on. Thank you for understanding.
