@@ -2,7 +2,7 @@ const router = require('express').Router();
 
 const {
     getUsers,
-    getUserById,
+    getSingleUser,
     createUser,
     updateUser,
     deleteUser,
@@ -19,7 +19,7 @@ router
 // /api/users/:userId GET PUT DELETE
 router
     .route('/:id')
-    .get(getUserById)
+    .get(getSingleUser)
     .delete(deleteUser)
     .put(updateUser);
     
