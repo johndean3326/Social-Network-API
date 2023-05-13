@@ -8,7 +8,7 @@
  [Install](#install)
 [Overview](#overview)
 [Screenshots](#screenshots)
-[Links](#links)
+[Links](#links)https://drive.google.com/file/d/1wpJKWJklAPCSC2weNK7aVym5gpPWXETT/view
 
 ## Install
 npm i
@@ -18,5 +18,10 @@ run in insomnia at localhost:3001
 ## Github Repository
 https://github.com/johndean3326/Social-Network-API
 
-## Walkthrough video
+## Walkthrough videos
+
+### Initiate server
+https://drive.google.com/file/d/11_IPBQAMWjeyZ_g3gylUokmYWMFWjTwP/view
+
+### Showing Insomnia
 https://drive.google.com/file/d/1wpJKWJklAPCSC2weNK7aVym5gpPWXETT/view
