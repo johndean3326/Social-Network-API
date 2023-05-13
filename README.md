@@ -2,7 +2,7 @@
  challenge 18
 
 ## Description
- Create a social network backend using nosql database. Add and delete thoughts, reactions and friends from user accounts.
+ Created a social network backend using nosql database. Add and delete thoughts, reactions and friends from user accounts.
 
  ## Table of Contents
  [Install](#install)
@@ -13,6 +13,10 @@
 ## Install
 npm i
 node server
+run in insomnia at localhost:3001
 
-## Issues 
-Could not get my app working. troubles debugging and i cant get it figured. Turning in something to atleast be graded on. Thank you for understanding.
+## Github Repository
+https://github.com/johndean3326/Social-Network-API
+
+## Walkthrough video
+https://drive.google.com/file/d/1wpJKWJklAPCSC2weNK7aVym5gpPWXETT/view
